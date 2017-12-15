@@ -11,7 +11,7 @@ I could not get an IP on VMware Workstation so this is done on VirtualBox.
 
 Scan with nmap. Port 23 is actually SSH. Port 80/8080 is vulnerable.
 
-![Alt text](./bulldog-nmap.png?raw=true)
+![Alt text](./bdog-nmap.png?raw=true)
 
 SSH banner
 
